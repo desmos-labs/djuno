@@ -9,7 +9,7 @@ require (
 	github.com/cometbft/cometbft v0.37.4
 	github.com/cosmos/cosmos-sdk v0.47.9
 	github.com/cosmos/gogoproto v1.4.11
-	github.com/cosmos/ibc-go/v7 v7.3.2
+	github.com/cosmos/ibc-go/v7 v7.4.0
 	github.com/desmos-labs/desmos/v7 v7.0.0
 	github.com/forbole/juno/v5 v5.3.0
 	github.com/g8rswimmer/go-twitter/v2 v2.1.5
